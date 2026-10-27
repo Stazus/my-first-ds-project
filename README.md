@@ -28,3 +28,11 @@ Aby uruchomić projekt, wykonaj:
 
 ```bash
 python main.py
+```
+
+Program wyświetli komunikat powitalny.
+
+## Kontrola wersji
+
+Projekt wykorzystuje Git do śledzenia zmian
+i zarządzania historią kodu.
