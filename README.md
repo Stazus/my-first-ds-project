@@ -21,3 +21,10 @@ Nauka podstaw systemu kontroli wersji Git, w tym:
 ## Autor
 
 Stanisław Flak
+
+## Uruchomienie programu
+
+Aby uruchomić projekt, wykonaj:
+
+```bash
+python main.py
