@@ -36,3 +36,8 @@ Program wyświetli komunikat powitalny.
 
 Projekt wykorzystuje Git do śledzenia zmian
 i zarządzania historią kodu.
+
+## Synchronizacja z GitHub
+
+Zadanie 7 - Test synchronizacji repozytorium
+lokalnego ze zdalnym za pomocą git push i git pull.
